@@ -3,12 +3,11 @@ Hello, I'm David
 Soy estudiante de Full Stack Developer 
 https://github.com/dssoto11
 
-About this Repository 📁
-In this repository, you'll find the source code for my personal website, where I showcase my projects, skills, and my evolution as a developer. My goal is to create innovative web solutions and explore the exciting possibilities of blockchain technology.
-
+About this Repository 📁/n
+En este repositorio podras encontrar los proyectos en los cualkes me encuentro trabajando, especialmente de python.
 
 Technologies Used 🛠️
-Python Html Css Sass Javascript SQL EVM Solidity
+Python 
 
 Web Development: HTML, CSS, JavaScript
 Backend Technologies: Python, Node.js
