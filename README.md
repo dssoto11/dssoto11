@@ -3,7 +3,7 @@ Hello, I'm David
 Soy estudiante de Full Stack Developer 
 https://github.com/dssoto11
 
-About this Repository 📁/n
+About this Repository 📁
 En este repositorio podras encontrar los proyectos en los cualkes me encuentro trabajando, especialmente de python.
 
 Technologies Used 🛠️
