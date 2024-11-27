@@ -1,26 +1,15 @@
 dssoto11/README.md
-Hello, I'm David 
-Soy estudiante de Full Stack Developer 
-https://github.com/dssoto11
+Hola!, soy David, Ingeniero Mecanico y recientemente Estudiante de Full Stack Developer 😊
 
-About this Repository 📁
-En este repositorio podras encontrar los proyectos en los cualkes me encuentro trabajando, especialmente de python.
+En este repositorio podras encontrar los proyectos en los cuales me encuentro trabajando, especialmente de lenguaje python y html.
 
-Technologies Used 🛠️
-Python 
+Desarrollo web: HTML, CSS, JavaScript
+Tecnologias de Backend: Python, django
 
-Web Development: HTML, CSS, JavaScript
-Backend Technologies: Python, Node.js
-
-Tecnologías utilizadas 🛠️
-Python 
-
-Desarrollo Web: HTML, CSS, JavaScript
-
-Me entusiasma explorar y aprender más sobre estas tecnologías y su potencial transformador en diversas industrias. Si tienes preguntas o deseas discutir temas relacionados con criptomonedas o blockchain, ¡no dudes en contactarme!
+Busco adentrarme en este mundo de la programacion y el desarrollo web, por el potencial que tiene en todos los ambitos, sobre todo me interesa la aplicacion en la industria
+en busca de optimizar procesos, etc. Cualquier critica es bien aceptada!
 
 Contáctame 📫
 Si tienes preguntas, sugerencias o simplemente quieres charlar sobre proyectos en python o desarrollo web, no dudes en ponerte en contacto conmigo a través de mi email!
-
 
 ¡Espero que disfrutes explorando mi repositorio! ¡Gracias por visitar! 👋
