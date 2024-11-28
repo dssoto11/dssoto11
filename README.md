@@ -1,15 +1,27 @@
-dssoto11/README.md
-Hola!, soy David, Ingeniero Mecanico y recientemente Estudiante de Full Stack Developer 😊
+# 💫 About Me:
+# ¡Hola, soy [Tu Nombre]! 👋<br><br>Soy un **Ingeniero Mecánico** con una pasión creciente por la **programación** y el **desarrollo web**. <br>Estoy comenzando a sumergirme en este emocionante mundo, aprendiendo nuevas habilidades y herramientas<br>para combinar mi experiencia técnica con el poder del software.<br><br>## 🚀 Sobre mí<br><br>- 👨‍💻 Actualmente me encuentro aprendiendo **desarrollo web**, enfocándome en tecnologías como HTML, CSS, JavaScript y frameworks como Django, React, etc.<br>- 🛠️ Tengo experiencia en **diseño y análisis mecánico**, con conocimientos en CAD CAE, y pretendo explorar cómo la programación pueden aportar a los procesos industriales.<br>- 🌱 Con los nuevos conocimientos a adquirir sobre **programación**  y **automatización**, pretendo expandir mis habilidades en áreas como **machine learning**,  y **desarrollo de software**.<br>- 🤖 Mi objetivo es combinar mis conocimientos en ingeniería con nuevas habilidades de programación para crear soluciones innovadoras en la industria.<br><br>## 🔧 Tecnologías y Herramientas (aprendiendo):<br><br>- **Lenguajes de programación**: Python, JavaScript, HTML, CSS<br>- **Frameworks**: React, Django <br>- **Bases de datos**: MySQL, PostgreSQL <br>- **Herramientas**: Git, GitHub, VS Code, Jupyter Notebooks<br><br>## 🌱 ¿En qué estoy trabajando ahora?<br><br>- Aprendiendo sobre el desarrollo de aplicaciones web.<br>- Realizando proyectos para automatizar tareas en ingeniería utilizando Python.<br>- Explorando el mundo de la **inteligencia artificial** y su aplicación en ingeniería mecánica.<br><br>## 📫 Conéctemos<br><br>- 🌐 [Mi LinkedIn](https://www.linkedin.com/in/david-santis-soto-620066254)<br>- 📧 Puedes enviarme un correo a [dssoto93@gmail.com]<br><br>---<br><br>¡Gracias por visitar mi perfil de GitHub! Estoy abierto a colaborar en proyectos interesantes y aprender de otros desarrolladores.<br>
 
-En este repositorio podras encontrar los proyectos en los cuales me encuentro trabajando, especialmente de lenguaje python y html.
 
-Desarrollo web: HTML, CSS, JavaScript
-Tecnologias de Backend: Python, django
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/david-santis-soto-620066254) 
 
-Busco adentrarme en este mundo de la programacion y el desarrollo web, por el potencial que tiene en todos los ambitos, sobre todo me interesa la aplicacion en la industria
-en busca de optimizar procesos, etc. Cualquier critica es bien aceptada!
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dssoto11&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dssoto11&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dssoto11&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Contáctame 📫
-Si tienes preguntas, sugerencias o simplemente quieres charlar sobre proyectos en python o desarrollo web, no dudes en ponerte en contacto conmigo a través de mi email!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dssoto11&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
 
-¡Espero que disfrutes explorando mi repositorio! ¡Gracias por visitar! 👋
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dssoto11&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dssoto11&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
